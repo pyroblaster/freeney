@@ -1,5 +1,5 @@
 # freeney
-What crypto to buy randomizer.
+What crypto to buy, randomizer.
 
 
 Empty string fixed.
